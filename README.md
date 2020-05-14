@@ -9,7 +9,7 @@ Hadley Wickham
 
 <br/>
 
-Watch the Homework 1 "getting started" video [here](video-goes-here).
+Watch the Homework 1 "getting started" video [here](https://warpwire.duke.edu/w/B8MDAA/).
 
 ## Tasks
 
